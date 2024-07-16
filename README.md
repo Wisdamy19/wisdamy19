@@ -1,5 +1,5 @@
 <h1 align="center">Antônio W. P. Saraiva</h1>
-<h3 align="center">Pretender to becoming a Backend developer</h3>
+<h3 align="center">I aspire to become a Backend developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
