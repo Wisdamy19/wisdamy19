@@ -1,5 +1,5 @@
 <h1 align="center">My name is Antônio</h1>
-<h3 align="center">Trilhando um caminho para se tornar um desenvolvedor Backend</h3>
+<h3 align="center">Pretender to becoming a Backend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
