@@ -27,6 +27,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisdamy19)](https://github.com/Wisdamy19/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdamy19)](https://github.com/wisdamy19/github-readme-stats)
 
 
