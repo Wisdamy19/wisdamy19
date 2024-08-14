@@ -27,6 +27,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdamy19&langs_count=8&theme=dark&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisdamy19)](https://github.com/Wisdamy19/github-readme-stats)
 
 
