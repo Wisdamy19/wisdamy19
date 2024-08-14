@@ -27,4 +27,5 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdamy19)](https://github.com/anuraghazra/github-readme-stats)
 
