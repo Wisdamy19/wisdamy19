@@ -1,7 +1,7 @@
 <h1 align="center">Antônio W. P. Saraiva</h1>
-<h3 align="center">I aspire to become a Backend developer.</h3>
+<h2 align="center">I aspire to become a Backend developer.</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/antonio-wisdamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-wisdamy" height="30" width="40" /></a>
 </p>
